@@ -2,9 +2,9 @@
 ### Automated Rotator Control System for a 3U CubeSat Mission
 
 
-### HAMZA SKIRD
-### YASSIN KHATER
-### ABDERRAZZAK EL HAMCHIOUI
+# HAMZA SKIRD
+# YASSIN KHATER
+# ABDERRAZZAK EL HAMCHIOUI
 
 
 [![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%203-c51a4a?logo=raspberry-pi)](https://www.raspberrypi.org/)
