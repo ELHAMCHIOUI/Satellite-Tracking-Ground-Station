@@ -1,6 +1,12 @@
 # Satellite Tracking Ground Station
 ### Automated Rotator Control System for a 3U CubeSat Mission
 
+
+### HAMZA SKIRD
+### YASSIN KHATER
+### ABDERRAZZAK EL HAMCHIOUI
+
+
 [![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%203-c51a4a?logo=raspberry-pi)](https://www.raspberrypi.org/)
 [![Controller](https://img.shields.io/badge/controller-Arduino%20Mega-00979D?logo=arduino)](https://www.arduino.cc/)
 [![Python](https://img.shields.io/badge/python-3.8%2B-3776AB?logo=python)](https://www.python.org/)
